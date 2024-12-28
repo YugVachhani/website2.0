@@ -45,11 +45,10 @@ const About = () => {
             </span>
             <span>That’s where SCIENTISTRY work.</span>
             <span>
-              We create high-performance skin care formulated so that it is easy
-              to select, easy to use and effortlessly slots into every skincare
-              routine. We formulate every serum with the right percentage of
-              active ingredients to deliver targeted results and hydrate and
-              soothe the skin.
+              We create formulation so that it is easy to select, easy to use
+              and effortlessly slots into every skincare routine. We formulate
+              every serum with the right percentage of active ingredients to
+              deliver targeted results and hydrate and soothe the skin.
             </span>
             <span>
               We stand for skincare that works without overwhelming you, your
